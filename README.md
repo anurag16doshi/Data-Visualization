@@ -1,0 +1,2 @@
+# Data-Visualization
+Designed and implemented a machine learning algorithm for analyzation of survival rate in the ship, Titanic, Manifested the use of SCIKIT learn in order to test the best algorithm as per specified requirements for prediction, Showcased the results of algorithms in data visualized formats using graphs and charts, Achieved 82.94% precision for the algorithm designed and ensured proper demonstration of survival rate
